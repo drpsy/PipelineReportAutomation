@@ -1,4 +1,4 @@
-# tla_thanh_pham
+#pipeline
 
 
 Luồng chạy cronjob:
