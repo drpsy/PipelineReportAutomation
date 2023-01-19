@@ -18,7 +18,7 @@ today = today.strftime("%Y-%m-%d")
 
 
 # # host = "imap.gmail.com"
-# download_folder = f"/home/viethoang/ai-academy/Gmail_preprocess/data/{today}"
+# download_folder = f""/PipelineReportAutomation/data"/{today}"
 
 # if not os.path.isdir(download_folder):
 #     os.makedirs(download_folder, exist_ok=True)
